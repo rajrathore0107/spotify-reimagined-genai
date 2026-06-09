@@ -1,5 +1,4 @@
 # 🎵 Spotify Reimagined with GenAI
-### Open Project 2026 — Product Track | Society of Business × Doremon Den
 
 > *"Spotify can predict your next emotion."*
 
@@ -75,7 +74,3 @@ spotify-reimagined-genai/
 | 4 | User Segments + Solution Overview (3 features) |
 | 5 | Solution Deep Dive — AI architecture + 4 key workflows |
 | 6 | Success Metrics + Pitfalls & Workarounds |
-
----
-
-*Deadline: 7 June 2026 | Team: Doremon Den | Open Project 2026*
