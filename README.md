@@ -7,13 +7,22 @@ Reimagining Spotify using Generative AI to deliver emotionally intelligent, cont
 
 ---
 
-## 🚀 Three GenAI Features
+## 🚀 Live Prototype
 
-| Feature | Target Users | Impact |
-|---------|-------------|--------|
+**▶ [https://v0-spotify-app-development-omega.vercel.app/](https://v0-spotify-app-development-omega.vercel.app/)**
+
+Fully interactive Spotify-like UI with all three GenAI features working live.  
+No login required — open in any browser.
+
+---
+
+## 🤖 Three GenAI Features
+
+| Feature | Target Users | Business Impact |
+|---|---|---|
 | 🎭 **MoodSync AI** | Mood-driven listeners (25%) | +22% session length |
 | 🌦️ **Context Conductor** | Passive listeners (40%) | +18% 30-day retention |
-| 💬 **Discovery Dialogue** | Active explorers (35%) | +31% new artist streams |
+| 💬 **Discovery Dialogue** | Active explorers (35%) | +31% new artist stream rate |
 
 ---
 
@@ -22,10 +31,10 @@ Reimagining Spotify using Generative AI to deliver emotionally intelligent, cont
 ```
 spotify-reimagined-genai/
 ├── deck/
-│   ├── spotify_strategy_deck.pdf       ← Submission deck (PDF)
+│   ├── spotify_strategy_deck.pdf       ← Submission deck (PDF, 6 slides)
 │   └── spotify_strategy_deck.pptx      ← Editable version
 ├── prototype/
-│   └── SpotifyApp_source.jsx           ← Full React prototype (deploy to v0/Bolt)
+│   └── SpotifyApp_source.jsx           ← Full React source (deploy to v0/Bolt)
 └── README.md
 ```
 
@@ -33,25 +42,40 @@ spotify-reimagined-genai/
 
 ## 🧠 GenAI Capabilities Used
 
-- **LLMs** — Intent parsing, mood interpretation, conversational discovery
-- **Multimodal AI** — Context signals (time, location, calendar, audio)
-- **AI Agents** — Autonomous session agent, feedback loop for personalisation
-- **Generative Content** — AI-written liner notes, playlist narratives
+- **LLMs** — Intent parsing, mood interpretation, conversational music discovery
+- **Multimodal AI** — Context signals (time, location, calendar, ambient audio)
+- **AI Agents** — Autonomous session agent with opt-in context awareness
+- **Generative Content** — AI-written liner notes, playlist narrative arcs
+
+---
 
 ## 💼 Business Case
 
-- +15% Free → Premium conversion (AI features gated in Premium)
-- –27% support tickets (AI self-serves "find music for X" queries)
-- Revenue growth via engagement uplift across all three user segments
+- **+15%** Free → Premium conversion (AI features gated in Premium)
+- **–27%** support tickets (AI self-serves "find music for X" queries)
+- **+22/18/31%** session length / retention / new artist streams across segments
 
 ---
 
-## 🛠️ Prototype Deployment
+## 🛠️ Deploy the Prototype Yourself
 
 1. Open [bolt.new](https://bolt.new) or [v0.dev](https://v0.dev)
 2. Paste contents of `prototype/SpotifyApp_source.jsx`
-3. Deploy → get your live URL
+3. Deploy → get your own live URL
 
 ---
 
-*Deadline: 7 June 2026 | Team: Doremon Den*
+## 📊 Strategy Deck — Slide Structure
+
+| Slide | Content |
+|---|---|
+| 1 | Cover — Problem hook + key stats |
+| 2 | Problem Introduction + Impact + User Breakdown |
+| 3 | Why GenAI? Traditional approaches vs GenAI capabilities |
+| 4 | User Segments + Solution Overview (3 features) |
+| 5 | Solution Deep Dive — AI architecture + 4 key workflows |
+| 6 | Success Metrics + Pitfalls & Workarounds |
+
+---
+
+*Deadline: 7 June 2026 | Team: Doremon Den | Open Project 2026*
